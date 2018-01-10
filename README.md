@@ -8,9 +8,9 @@ Button x3 |  10,11，13
 light x16 |  9
 *ws2812b can control on one pin* 
 ####   Design：
-![image](http://github.com/minamion/Gohei_RGB_Project/raw/master/Image/Gohei.jpg)
+![image](https://github.com/minamion/Gohei_RGB_Project/blob/master/Image/Gohei.png)
 ####   LED connect to arduino：
-![image](http://github.com/minamion/Gohei_RGB_Project/raw/master/Image/PCB.jpg)
+![image](http://github.com/minamion/Gohei_RGB_Project/blob/master/Image/PCB.jpg)
 
 #### TODO:
 I get a 3Dprinter and i want to print some part to make a more great gohei .
