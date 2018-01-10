@@ -1,11 +1,11 @@
 # Gohei_RGB_Project
   Use arduino and 5050LED(with ws2812b IC)
   List:
-Things | PIN
----- | ---
-Arduino | ----
-Button x3 |  10,11，13
-light x16 |  9
+| Things | PIN |
+| ---- | --- |
+| Arduino | ---- |
+| Button x3 |  10,11，13 |
+| light x16 |  9 |
 *ws2812b can control on one pin* 
 ####   Design：
 ![image](https://github.com/minamion/Gohei_RGB_Project/blob/master/Image/Gohei.png)
