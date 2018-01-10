@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs/Gohei_RGB_Project/v15
+/Debug
+/Gohei_RGB_Project_testLED.ino
+/Release
+/sketch_nov12b
+/__vm
+/ButtonTest.ino
+/Gohei_RGB_Project.sln
+/Gohei_RGB_Project.vcxproj.filters
+/LightTest.ino
+/Light.ino
+/Gohei_RGB_Project.vcxproj
